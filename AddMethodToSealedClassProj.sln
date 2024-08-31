@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddMethodToSealedClassProj", "AddMethodToSealedClassProj.csproj", "{02F28572-53AE-4EBC-903B-E678E85DB31F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F28572-53AE-4EBC-903B-E678E85DB31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F28572-53AE-4EBC-903B-E678E85DB31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F28572-53AE-4EBC-903B-E678E85DB31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F28572-53AE-4EBC-903B-E678E85DB31F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E272801-7E58-4EBE-A349-F0F4701A0EC1}
+	EndGlobalSection
+EndGlobal
